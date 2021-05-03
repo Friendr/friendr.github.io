@@ -40,6 +40,24 @@
   <!-- End Facebook Pixel Code -->
 </head>
 <body>
+  <script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '889406488304187',
+      xfbml      : true,
+      version    : 'v10.0'
+    });
+    FB.AppEvents.logPageView();
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "https://connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
   <div class="div-block-7 home"><img src="images/venn_white.svg" loading="lazy" alt="" class="image-4"></div>
   <div class="section-4">
     <div class="div-block-6">
