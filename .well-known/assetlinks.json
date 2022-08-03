@@ -4,6 +4,15 @@
     "namespace": "android_app",
     "package_name": "com.friendr.venn.debug",
     "sha256_cert_fingerprints":
+    ["52:AD:58:29:E0:58:D1:6F:13:42:8B:DF:78:BC:5B:3C:09:6A:F3:61:FF:B4:A3:B8:49:28:6B:80:17:42:A3:EC"]
+  }
+  },
+ {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.friendr.venn.debug",
+    "sha256_cert_fingerprints":
     ["3C:D2:74:50:A1:0C:58:E9:2E:A2:A9:78:C8:E9:D5:D8:42:5B:27:58:8F:02:89:37:8B:C6:7E:44:AA:D9:F5:51"]
   }
   },
@@ -13,6 +22,6 @@
     "namespace": "android_app",
     "package_name": "com.friendr.venn",
     "sha256_cert_fingerprints":
-    ["3C:D2:74:50:A1:0C:58:E9:2E:A2:A9:78:C8:E9:D5:D8:42:5B:27:58:8F:02:89:37:8B:C6:7E:44:AA:D9:F5:51"]
+    ["55:74:74:D8:AF:F6:1E:4A:C9:4F:06:42:2C:84:55:98:C0:14:33:F8:2E:27:5A:7C:7A:C8:F3:C7:6F:9B:2F:04"]
   }
 }]
