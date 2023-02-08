@@ -16,6 +16,15 @@
     ["3C:D2:74:50:A1:0C:58:E9:2E:A2:A9:78:C8:E9:D5:D8:42:5B:27:58:8F:02:89:37:8B:C6:7E:44:AA:D9:F5:51"]
   }
   },
+ {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.friendr.venn.debug",
+    "sha256_cert_fingerprints":
+    ["92:7B:1B:53:80:33:0C:FA:C5:0D:A5:0F:E3:6E:45:BA:DC:DB:3C:D3:F7:BE:FE:4E:67:5E:FF:53:56:2A:97:68"]
+  }
+  },
   {
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
